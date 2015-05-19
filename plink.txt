@@ -1,0 +1,7 @@
+"plink"
+{
+	"base"		"base"
+	"title"		"Plink"
+	"maps"		"^pl_"
+	"menusystem"	"1"
+}
